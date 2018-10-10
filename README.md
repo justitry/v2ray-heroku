@@ -25,7 +25,7 @@
         "address": "xxxx.herokuapp.com",
         "port": 443,
         "users": [{
-          "id": "xxx",
+          "id": "9015a4f3-f900-4bd2-9648-d58b5d594b41",
           "alterId": 64
         }]
       }]
