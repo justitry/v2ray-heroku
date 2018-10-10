@@ -1,6 +1,6 @@
-# v2ray-heroku
+# vtomy
 > 部署
-# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/xuiv/v2ray-heroku)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/xuiv/v2ray-heroku)
+# 点击 [![](https://www.herokucdn.com/deploy/button.png)]
 
 客户端config.json设置如下：
 ```
@@ -25,7 +25,7 @@
         "address": "xxxx.herokuapp.com",
         "port": 443,
         "users": [{
-          "id": "b831381d-6324-4d53-ad4f-8cda48b30811",
+          "id": "xxx",
           "alterId": 64
         }]
       }]
