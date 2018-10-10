@@ -1,6 +1,6 @@
 # vtomy
 > 部署
-# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/justitry/vtomy)，[一键部署](https://heroku.com/deploy?template=https://github.com/justitry/vtomy)
+# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/justitry/vtomy)
 
 setting info：
 
