@@ -1,1 +1,1 @@
-web: vtome ${PORT} -config server.json
+web: v2ray-heroku -port ${PORT} -config server.json
