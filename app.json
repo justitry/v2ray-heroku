@@ -1,12 +1,13 @@
 {
-  "name": "Start on Heroku: vtome",
-  "description": "Go Getting Started vtome",
+  "name": "Start on Heroku: v2ray",
+  "description": "Go Getting Started Example v2ray App",
   "keywords": [
     "getting-started",
-    "vtome",
+    "v2ray",
     "sample",
     "example"
   ],
-  "website": "https://github.com/justitry/vtomy",
-  "repository": "https://github.com/justitry/vtomy"
+  "website": "http://github.com/xuiv/v2ray-heroku",
+  "repository": "http://github.com/xuiv/v2ray-heroku"
 }
+
